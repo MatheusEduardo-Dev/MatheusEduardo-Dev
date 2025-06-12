@@ -32,6 +32,14 @@ Me chamo Matheus Eduardo, tenho 23 anos e sou natural do Rio de Janeiro. Estou c
 />
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
