@@ -89,7 +89,7 @@ Me chamo Matheus Eduardo, tenho 23 anos e sou natural do Rio de Janeiro. Estou c
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEduardo-Dev&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEduardo-Dev&layout=compact&theme=transparent" 
   />
 
 </p>
